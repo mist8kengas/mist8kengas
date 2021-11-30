@@ -46,4 +46,5 @@
 
 #### 📊 GitHub Stats
 [![](https://github-readme-stats.vercel.app/api?username=mist8kengas&count_private=true&theme=github_dark&show_icons=true)](https://github.com/mist8kengas)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mist8kengas&count_private=true&theme=github_dark)](https://github.com/mist8kengas)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mist8kengas&count_private=true&theme=github_dark&layout=compact)](https://github.com/mist8kengas)
