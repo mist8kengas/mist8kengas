@@ -1,10 +1,10 @@
-#### 📝 Description
+## 📝 Description
 ```js
 "A full stack developer and dark-mode enjoyer",
 "willing to learn new things as I go";
 ```
 
-#### ⚙️ Tools + Technologies
+## ⚙️ Tools + Technologies
 <!-- Tools: Operating Systems -->
 [![](https://img.shields.io/badge/OS%201-Windows-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=windows)](https://www.microsoft.com/en-us/windows)
 
@@ -44,7 +44,7 @@
 <!-- Tools: Runtime Environments -->
 [![](https://img.shields.io/badge/Environment-NodeJS-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=nodedotjs)](https://nodejs.org/)
 
-#### 📊 GitHub Stats
+## 📊 GitHub Stats
 [![](https://github-readme-stats.vercel.app/api?username=mist8kengas&count_private=true&theme=github_dark&show_icons=true)](https://github.com/mist8kengas)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=mist8kengas&count_private=true&theme=github_dark&layout=compact)](https://github.com/mist8kengas)
