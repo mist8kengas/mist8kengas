@@ -29,10 +29,10 @@
 
 [![](https://img.shields.io/badge/Cloud%204-Linode-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=linode)](https://www.linode.com/)
 
-<!-- Technologies: Languages -->
-[![](https://img.shields.io/badge/Language%202-TypeScript-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=typescript)](https://www.typescriptlang.org/)
+<!-- Technologies: (Programming) Languages -->
+[![](https://img.shields.io/badge/Language%201-TypeScript-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=typescript)](https://www.typescriptlang.org/)
 
-[![](https://img.shields.io/badge/Language%201-JavaScript-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=javascript)](https://wikipedia.org/wiki/JavaScript)
+[![](https://img.shields.io/badge/Language%202-JavaScript-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=javascript)](https://wikipedia.org/wiki/JavaScript)
 
 [![](https://img.shields.io/badge/Language%203-Python-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=python)](https://www.python.org/)
 
