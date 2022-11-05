@@ -15,6 +15,10 @@
 
 [![](https://img.shields.io/badge/Editor%202-Notepad%2b%2b-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=notepadplusplus)](https://notepad-plus-plus.org/)
 
+[![](https://img.shields.io/badge/Editor%203-Nano-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=gnu)](https://en.wikipedia.org/wiki/GNU_nano)
+
+[![](https://img.shields.io/badge/Editor%204-Vim-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=vim)](https://www.vim.org/)
+
 <!-- Tools/Technologies: Git -->
 [![](https://img.shields.io/badge/Git%201-GitHub-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=github)](https://github.com/)
 
@@ -34,12 +38,16 @@
 
 [![](https://img.shields.io/badge/Language%202-JavaScript-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=javascript)](https://wikipedia.org/wiki/JavaScript)
 
+[![](https://img.shields.io/badge/Language%202-Rust-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=rust)](https://www.rust-lang.org/)
+
+[![](https://img.shields.io/badge/Language%202-Go-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=go)](https://go.dev/)
+
 [![](https://img.shields.io/badge/Language%203-Python-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=python)](https://www.python.org/)
 
 [![](https://img.shields.io/badge/Language%204-PHP-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=php)](https://www.php.net/)
 
 <!-- Technologies: Shell -->
-[![](https://img.shields.io/badge/Shell%201-Bash-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=gnubash)]()
+[![](https://img.shields.io/badge/Shell%201-Bash-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=gnubash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 <!-- Tools: Runtime Environments -->
 [![](https://img.shields.io/badge/Environment-NodeJS-blue?style=for-the-badge&color=1F6FEB&logoColor=1F6FEB&labelColor=0D1117&logo=nodedotjs)](https://nodejs.org/)
